@@ -8,7 +8,7 @@ Built in Python using the `requests` library to interact with the [icanhazdadjok
 
 1.  **Clone the repository:**
     ```bash
-    git clone <your-repo-url>
+    git clone <https://github.com/aayush-0131/joke-cli.git>
     cd joke-cli
     ```
 
